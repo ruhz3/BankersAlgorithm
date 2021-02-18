@@ -1,0 +1,2 @@
+C:\Users\류형주\Desktop\git\BankersAlgorithm\BankersAlgorithm\Debug\BankersAlgorithm.exe
+C:\Users\류형주\Desktop\git\BankersAlgorithm\BankersAlgorithm\Debug\BankersAlgorithm.pdb
